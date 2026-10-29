@@ -1,0 +1,3 @@
+Spotter = Corey Joffrion
+Teammates = Corey Joffrion, Willardth Smith, Kojo X Johnson
+Days + Times when your team meets = Mondays, 8:00 PM ET
